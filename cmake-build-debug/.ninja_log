@@ -1,0 +1,9 @@
+# ninja log v6
+9	565	7525929445869938	CMakeFiles/FilasBill.dir/main.c.obj	d02bf50d5fc8d949
+20	576	7525929445999970	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
+39	267	7525929952516290	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
+38	401	7525930077847369	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
+27	416	7525930077737340	CMakeFiles/FilasBill.dir/main.c.obj	d02bf50d5fc8d949
+20	132	7525930165384571	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
+133	488	7525930166514569	FilasBill.exe	1bd1dccfd0e6c2c8
+42	338	7525930452114267	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
