@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/FilasBill/cmake-build-debug/CMakeFiles/FilasBill.dir
+C:/Users/User/CLionProjects/FilasBill/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/FilasBill/cmake-build-debug/CMakeFiles/rebuild_cache.dir
