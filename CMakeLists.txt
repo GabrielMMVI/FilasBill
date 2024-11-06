@@ -3,4 +3,5 @@ project(FilasBill C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(FilasBill main.c)
+add_executable(FilasBill main.c
+        filaLinear.c)
