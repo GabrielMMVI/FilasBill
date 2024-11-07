@@ -5,3 +5,14 @@
 20	286	7526542120257948	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
 165	1267	7526787164701624	CMakeFiles/FilasBill.dir/filaCircular.c.obj	51e49dda1777a54f
 36	272	7526788066481573	CMakeFiles/FilasBill.dir/filaPonteiros.c.obj	af8abf4f0f3d20e4
+202	934	7527174730480988	CMakeFiles/FilasBill.dir/filaCircular.c.obj	51e49dda1777a54f
+190	951	7527174730371005	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
+210	957	7527174730561018	CMakeFiles/FilasBill.dir/filaPonteiros.c.obj	af8abf4f0f3d20e4
+935	1227	7527174737811003	CMakeFiles/FilasBill.dir/pilhaArray.c.obj	715d9d6d7d2df682
+1227	1870	7527174740730984	FilasBill.exe	cc44add66ac286ec
+45	307	7527174972041005	CMakeFiles/FilasBill.dir/pilhaArray.c.obj	715d9d6d7d2df682
+309	610	7527174974671006	FilasBill.exe	cc44add66ac286ec
+59	519	7527175194730993	CMakeFiles/FilasBill.dir/pilhaArray.c.obj	715d9d6d7d2df682
+521	871	7527175199331040	FilasBill.exe	cc44add66ac286ec
+34	728	7527175585340988	CMakeFiles/FilasBill.dir/pilhaArray.c.obj	715d9d6d7d2df682
+729	1163	7527175592301004	FilasBill.exe	cc44add66ac286ec
