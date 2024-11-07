@@ -1,4 +1,4 @@
-// -> Para rodar, descomente as linhas abaixo
+/// -> Para rodar, descomente as linhas abaixo
 
 // #include<stdio.h>
 // #include<stdlib.h>

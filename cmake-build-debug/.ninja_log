@@ -1,18 +1,11 @@
 # ninja log v6
-273	604	7526788068851610	FilasBill.exe	ee1d39bc4d12fa54
-11	124	7526542376597940	CMakeFiles/FilasBill.dir/main.c.obj	d02bf50d5fc8d949
-160	1239	7526789278347186	build.ninja	f56cec78ba0cabdd
-20	286	7526542120257948	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
-165	1267	7526787164701624	CMakeFiles/FilasBill.dir/filaCircular.c.obj	51e49dda1777a54f
-36	272	7526788066481573	CMakeFiles/FilasBill.dir/filaPonteiros.c.obj	af8abf4f0f3d20e4
-202	934	7527174730480988	CMakeFiles/FilasBill.dir/filaCircular.c.obj	51e49dda1777a54f
-190	951	7527174730371005	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
-210	957	7527174730561018	CMakeFiles/FilasBill.dir/filaPonteiros.c.obj	af8abf4f0f3d20e4
-935	1227	7527174737811003	CMakeFiles/FilasBill.dir/pilhaArray.c.obj	715d9d6d7d2df682
-1227	1870	7527174740730984	FilasBill.exe	cc44add66ac286ec
-45	307	7527174972041005	CMakeFiles/FilasBill.dir/pilhaArray.c.obj	715d9d6d7d2df682
-309	610	7527174974671006	FilasBill.exe	cc44add66ac286ec
-59	519	7527175194730993	CMakeFiles/FilasBill.dir/pilhaArray.c.obj	715d9d6d7d2df682
-521	871	7527175199331040	FilasBill.exe	cc44add66ac286ec
-34	728	7527175585340988	CMakeFiles/FilasBill.dir/pilhaArray.c.obj	715d9d6d7d2df682
 729	1163	7527175592301004	FilasBill.exe	cc44add66ac286ec
+11	124	7526542376597940	CMakeFiles/FilasBill.dir/main.c.obj	d02bf50d5fc8d949
+160	1239	7527178174018767	build.ninja	f56cec78ba0cabdd
+190	951	7527174730371005	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
+202	934	7527174730480988	CMakeFiles/FilasBill.dir/filaCircular.c.obj	51e49dda1777a54f
+34	728	7527175585340988	CMakeFiles/FilasBill.dir/pilhaArray.c.obj	715d9d6d7d2df682
+210	957	7527174730561018	CMakeFiles/FilasBill.dir/filaPonteiros.c.obj	af8abf4f0f3d20e4
+62	391	7527185600727001	CMakeFiles/FilasBill.dir/pilhaArray.c.obj	715d9d6d7d2df682
+102	562	7527185601126960	CMakeFiles/FilasBill.dir/pilhaEncadeada.c.obj	20e3db49f280e4b2
+562	1120	7527185605716968	FilasBill.exe	4d1096b81e80af46
