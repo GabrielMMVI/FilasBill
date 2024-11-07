@@ -1,9 +1,19 @@
 # ninja log v6
-9	565	7525929445869938	CMakeFiles/FilasBill.dir/main.c.obj	d02bf50d5fc8d949
-20	576	7525929445999970	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
-39	267	7525929952516290	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
-38	401	7525930077847369	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
-27	416	7525930077737340	CMakeFiles/FilasBill.dir/main.c.obj	d02bf50d5fc8d949
-20	132	7525930165384571	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
-133	488	7525930166514569	FilasBill.exe	1bd1dccfd0e6c2c8
-42	338	7525930452114267	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
+132	500	7526478591318466	FilasBill.exe	1bd1dccfd0e6c2c8
+34	445	7526478490298464	CMakeFiles/FilasBill.dir/main.c.obj	d02bf50d5fc8d949
+160	1239	7526534293505618	build.ninja	f56cec78ba0cabdd
+31	131	7526478590308456	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
+8	205	7526541081550718	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
+16	339	7526541081630783	CMakeFiles/FilasBill.dir/filaCircular.c.obj	51e49dda1777a54f
+9	112	7526541182617934	CMakeFiles/FilasBill.dir/main.c.obj	d02bf50d5fc8d949
+113	442	7526541183657955	FilasBill.exe	d9fe1576b577b601
+20	286	7526542120257948	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
+12	321	7526542120177970	CMakeFiles/FilasBill.dir/main.c.obj	d02bf50d5fc8d949
+27	332	7526542120327968	CMakeFiles/FilasBill.dir/filaCircular.c.obj	51e49dda1777a54f
+11	124	7526542376597940	CMakeFiles/FilasBill.dir/main.c.obj	d02bf50d5fc8d949
+23	197	7526542376727952	CMakeFiles/FilasBill.dir/filaCircular.c.obj	51e49dda1777a54f
+198	533	7526542378477982	FilasBill.exe	d9fe1576b577b601
+10	157	7526542717407967	CMakeFiles/FilasBill.dir/filaCircular.c.obj	51e49dda1777a54f
+158	427	7526542718877977	FilasBill.exe	d9fe1576b577b601
+8	203	7526543151007959	CMakeFiles/FilasBill.dir/filaCircular.c.obj	51e49dda1777a54f
+205	440	7526543152978003	FilasBill.exe	d9fe1576b577b601
