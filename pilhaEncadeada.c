@@ -1,4 +1,4 @@
-///Descomentar para rodar
+// /*Descomentar para rodar */
 
 // #include <stdio.h>
 // #include <stdlib.h>

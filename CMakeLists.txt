@@ -8,4 +8,5 @@ add_executable(FilasBill main.c
         filaCircular.c
         filaPonteiros.c
         pilhaArray.c
-        pilhaEncadeada.c)
+        pilhaEncadeada.c
+        pilhaCircular.c)

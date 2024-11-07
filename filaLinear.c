@@ -1,5 +1,5 @@
-/// -> Descomentar as linhas debaixo para rodar.
-
+// /* -> Descomentar as linhas debaixo para rodar. */
+//
 // #include <stdio.h>
 // #define MAX 5
 //
