@@ -1,6 +1,7 @@
 # ninja log v6
-205	440	7526543152978003	FilasBill.exe	d9fe1576b577b601
+273	604	7526788068851610	FilasBill.exe	ee1d39bc4d12fa54
 11	124	7526542376597940	CMakeFiles/FilasBill.dir/main.c.obj	d02bf50d5fc8d949
-160	1239	7526543961797941	build.ninja	f56cec78ba0cabdd
+160	1239	7526789278347186	build.ninja	f56cec78ba0cabdd
 20	286	7526542120257948	CMakeFiles/FilasBill.dir/filaLinear.c.obj	b0328830b6ce3884
-8	203	7526543151007959	CMakeFiles/FilasBill.dir/filaCircular.c.obj	51e49dda1777a54f
+165	1267	7526787164701624	CMakeFiles/FilasBill.dir/filaCircular.c.obj	51e49dda1777a54f
+36	272	7526788066481573	CMakeFiles/FilasBill.dir/filaPonteiros.c.obj	af8abf4f0f3d20e4
